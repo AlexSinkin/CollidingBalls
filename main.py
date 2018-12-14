@@ -59,7 +59,7 @@ canv = None
 
 create_window()
 
-# рисуем шары.
+# рисуем шары
 
 colors = ['red', 'green', 'blue', 'yellow', 'cyan', 'orange', 'brown', 'pink']
 balls_array = []
